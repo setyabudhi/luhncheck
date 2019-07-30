@@ -1,17 +1,3 @@
-/*
- * File: $RCSfile: TransactionCheck/PCETransactionCheck/src/id/wn/bii/server/transactioncheckservice/checkdigit/algorithm/LUHNCheckDigit.java $
- *
- * Copyright (c) 2007 Wincor Nixdorf GmbH & Co. KG.,
- * Heinz-Nixdorf-Ring 1, 33106 Paderborn, Germany
- * All Rights Reserved.
- *
- * This software is the confidential and proprietary information
- * of Wincor Nixdorf ("Confidential Information"). You shall not
- * disclose such Confidential Information and shall use it only in
- * accordance with the terms of the license agreement you entered
- * into with Wincor Nixdorf.
- *
- */
 package LuhnCheck;
 
 public class LUHNCheckDigit  {
